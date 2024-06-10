@@ -1,2 +1,2 @@
 # PersonalStudies
-Learning programming languages through small increments
+Learning programming languages through small increments (Summer 2024)
