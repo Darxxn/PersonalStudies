@@ -1,5 +1,3 @@
-package IntroToJava.Project-BasicCalculator;
-
 // Perform basic arithmetic equations
 public class Calculator {
     public static void main(String[] args) {
