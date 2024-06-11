@@ -1,4 +1,4 @@
-public class Order {
+public class IfElseOrder {
   
     public static void main(String[] args) {
       
@@ -14,4 +14,3 @@ public class Order {
       }
     }
   }
-  
