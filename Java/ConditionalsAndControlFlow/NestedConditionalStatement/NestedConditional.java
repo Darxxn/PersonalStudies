@@ -1,4 +1,4 @@
-package Java.NestedConditionalStatement;
+package Java.ConditionalsAndControlFlow.NestedConditionalStatement;
 
 public class NestedConditional {
     boolean isFilled;

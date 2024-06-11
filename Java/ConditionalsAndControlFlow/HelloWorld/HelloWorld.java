@@ -1,4 +1,4 @@
-package Java.HelloWorld;
+package Java.ConditionalsAndControlFlow.HelloWorld;
 
 public class HelloWorld {
     public static void main(String[] args) {
