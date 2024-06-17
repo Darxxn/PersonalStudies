@@ -1,4 +1,4 @@
-package Java.ArraysAndArraylists.Length;
+package Java.ArraysAndArraylists.Arrays.Length;
 
 public class Main {
   public static void main(String[] args){

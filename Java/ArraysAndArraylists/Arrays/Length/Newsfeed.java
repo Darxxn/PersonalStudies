@@ -1,4 +1,4 @@
-package Java.ArraysAndArraylists.Length;
+package Java.ArraysAndArraylists.Arrays.Length;
 
 public class Newsfeed {
     String[] topics = {"Opinion", "Tech", "Science", "Health"};
