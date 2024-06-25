@@ -1,4 +1,4 @@
-package Java.ArraysAndArraylists.ArrayLists.GettingAnItem'sIndex;
+package Java.ArraysAndArraylists.ArrayLists.GettingAnItemsIndex;
 
 import java.util.ArrayList;
 
